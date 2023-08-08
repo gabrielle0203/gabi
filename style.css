@@ -8,6 +8,12 @@ body{
     background-color: var(--cor-de-fundo);
     color:var(--branco-principal)
 }
-.principal{
-    background-image: url('imagans/background-image');
+
+    .principal{
+background-image: url(imagens/background.png);
+background-size: contain;
+background-repeat: no-repeat;
 }
+ .container{
+    height: 100vh;
+ }
